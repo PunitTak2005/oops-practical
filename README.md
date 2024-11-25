@@ -50,9 +50,13 @@ Nikita Menariya, for providing valuable guidance and practical assignments.
 Techno India NJR Institute of Technology, for fostering an environment of learning and innovation.
 
 📬 Contact
+
 👤 Punit Tak
+
 📧 punittak2005@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/punit-tak-7b456128a/
+
 💻 GitHub: https://github.com/PunitTak2005
 
 
